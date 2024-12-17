@@ -1,0 +1,44 @@
+_repo: Les-confessions-d-un-converti_74842
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wyzewa, Teodor de
+    aliases:
+    - Wyzewa, Téodor de
+    - De Wyzewa, Teodor
+    - Wyzewa, T. de (Teodor)
+    - Wyzewa, Théodore de
+    - Wyzewa, Theodore de
+    - Wyzewski, Teodor
+    birthdate: 1862
+    deathdate: 1917
+    gutenberg_agent_id: '42402'
+    url: http://www.gutenberg.org/2009/agents/42402
+    wikipedia:
+    - https://en.wikipedia.org/wiki/T%C3%A9odor_de_Wyzewa
+    - https://fr.wikipedia.org/wiki/Th%C3%A9odore_de_Wyzewa
+creator:
+  author:
+    agent_name: Benson, Robert-Hugh
+    gutenberg_agent_id: '57682'
+    url: http://www.gutenberg.org/2009/agents/57682
+description: ''
+gutenberg_issued: '2024-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74842'
+language: fr
+pgterms:marc904: https://polona.pl/preview/7083dea1-df4c-4f76-9b17-a67ed2e5cda1
+pgterms:marc905: 20241201144712benson
+pgterms:marc906: '1914'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Polona digital library)
+publication_note: '  $aParis :$bPerrin et Cie, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les confessions d'un converti
+url: http://www.gutenberg.org/ebooks/74842
